@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="binaries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jetclient/binaries/jetclient-0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetclient/binaries/jetclient-0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jetclient/binaries/jetclient-0.1-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
